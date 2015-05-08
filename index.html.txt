@@ -11,12 +11,12 @@
     <div class="left"></div>
     <div class ="center"></div>
     <div id="footer"></div>
-    <div class="navbar">
-      <p id="home"><a href="#">Home</a></p>
-      <p id="news"><a href="#">News</a></p>
+    <nav class="navbar">
+      <p id="feed"><a href="#">Feed</a></p>
       <p id="store"><a href="#">Store</a></p>
+      <p id="wiki"><a href="#">Wiki</a></p>
       <p id="forum"><a href="#">Forum</a></p>
       <p id="about"><a href="#">About</a></p>
-    </div>
+    </nav>
   </body>
 </html>

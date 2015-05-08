@@ -4,7 +4,7 @@ body {
 
 
 #header {
-  background-color: #191F26;
+  background-color: #30353C;
   height: 12em;
   width:
   position:fixed;
@@ -21,7 +21,7 @@ body {
   margin:auto;
   text-align: center;
   position: relative;
-  top: 0.9em;
+  top: 0.95em;
 }
 
 #header a {
@@ -46,10 +46,10 @@ body {
   text-align: center;
   letter-spacing: 0.1em;
   display: inline;
-  margin: 3.6em;
+  margin: 3em;
   position: relative;
-  top: 0.7em;
-  left: 4em;
+  top: 0.75em;
+  left: 8.5em;
   text-transform: uppercase;
   text-decoration: none;
 }
@@ -61,4 +61,34 @@ a {
 
 a:hover {
   color: #EDC745;
+}
+
+#feed a:hover {
+  color: #00aced;
+}
+
+#store a:hover {
+  color:#B128E6;
+}
+
+#wiki a:hover {
+  color:#27C5A2;
+}
+
+#forum a:hover {
+  color:#E85420;
+}
+
+#about a:hover {
+  color: #EDC745;
+}
+/*
+img {
+  height: 600px;
+  position: relative;
+  left: 37%;
+  top: 50px;
+  outline: 
+  opacity: 0.4;
+*/
 }
