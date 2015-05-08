@@ -76,7 +76,7 @@ a:hover {
 }
 
 #forum a:hover {
-  color:#E85420;
+  color:#FF0066;
 }
 
 #about a:hover {
