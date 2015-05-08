@@ -18,5 +18,6 @@
       <p id="forum"><a href="#">Forum</a></p>
       <p id="about"><a href="#">About</a></p>
     </nav>
+    <img src="https://ipost.files.wordpress.com/2012/05/long_cat1_2.gif"/>
   </body>
 </html>

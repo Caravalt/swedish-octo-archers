@@ -6,9 +6,7 @@ body {
 #header {
   background-color: #30353C;
   height: 12em;
-  width:
-  position:fixed;
-  z-index: 1;
+  width: 100%;
 }
 
 #header p {
@@ -35,6 +33,7 @@ body {
 
 .navbar {
   height: 6em;
+  width: 100%;
   background-color: #E6E6E6;
   box-shadow: 0px 10px 10px #B8B8B8;
 }
@@ -82,13 +81,13 @@ a:hover {
 #about a:hover {
   color: #EDC745;
 }
-/*
+
 img {
-  height: 600px;
+  height: 1200px;
   position: relative;
-  left: 37%;
+  left: 36%;
   top: 50px;
   outline: 
   opacity: 0.4;
-*/
+
 }
